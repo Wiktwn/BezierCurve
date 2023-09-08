@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #464646;
+  opacity: 1;
+  background-image: radial-gradient(#a5a5a5 1.1px, #464646 0.9px);
+  background-size: 18px 18px;
+}
+
+canvas {
+  opacity: 1;
+  padding: 0;
+  margin: auto;
+  display: block;
+  outline: auto;
+  outline-color: #dbdbdb;
+  outline-offset: 5px;
+  outline-width: 3px;
+}
+
+#test {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
